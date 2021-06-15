@@ -1,0 +1,17 @@
+
+f	java:S117n"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ı£ç…
+<
+java:S1170"!Make this final field static too.(ÛÓìœ¸ˇˇˇˇ
+I
+java:S1874%".Remove this use of "future"; it is deprecated.(Ê≥Ûˆ¸ˇˇˇˇ
+K
+java:S18743"0Remove this use of "complete"; it is deprecated.(ö∫‹˚ˇˇˇˇ
+J
+java:S1874©".Remove this use of "future"; it is deprecated.(Ê≥Ûˆ¸ˇˇˇˇ
+l	java:S116"RRename this field "DB_PATH" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÛÓìœ¸ˇˇˇˇ
+H
+java:S1874≠",Remove this use of "fail"; it is deprecated.(ƒŒﬁÌ¸ˇˇˇˇ
+G
+java:S18745",Remove this use of "fail"; it is deprecated.(Ê∏Úˆ˝ˇˇˇˇ
+L
+java:S1874Ø"0Remove this use of "complete"; it is deprecated.(ÀΩò≤˙ˇˇˇˇ
